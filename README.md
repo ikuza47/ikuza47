@@ -1,1 +1,3 @@
 ...
+
+<a href="https://ikuza.space"><img src="files/ikuza.space.logo.svg" alt="ikuza.space" style=" height: 56px; opacity: 0.12; transition: opacity 0.3s;"></a>
